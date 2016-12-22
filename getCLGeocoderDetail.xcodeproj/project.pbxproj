@@ -12,6 +12,8 @@
 		1A35E01F1E0507AB00ED0171 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A35E01D1E0507AB00ED0171 /* Main.storyboard */; };
 		1A35E0211E0507AB00ED0171 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A35E0201E0507AB00ED0171 /* Assets.xcassets */; };
 		1A35E0241E0507AB00ED0171 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A35E0221E0507AB00ED0171 /* LaunchScreen.storyboard */; };
+		1A35E02F1E0BA57000ED0171 /* zh_Hant_TW.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A35E02D1E0BA57000ED0171 /* zh_Hant_TW.png */; };
+		1A35E0301E0BA57000ED0171 /* en_US.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A35E02E1E0BA57000ED0171 /* en_US.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		1A35E0201E0507AB00ED0171 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A35E0231E0507AB00ED0171 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A35E0251E0507AB00ED0171 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A35E02D1E0BA57000ED0171 /* zh_Hant_TW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zh_Hant_TW.png; sourceTree = "<group>"; };
+		1A35E02E1E0BA57000ED0171 /* en_US.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = en_US.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,8 @@
 		1A35E00D1E0507AB00ED0171 = {
 			isa = PBXGroup;
 			children = (
+				1A35E02D1E0BA57000ED0171 /* zh_Hant_TW.png */,
+				1A35E02E1E0BA57000ED0171 /* en_US.png */,
 				1A35E0181E0507AB00ED0171 /* getCLGeocoderDetail */,
 				1A35E0171E0507AB00ED0171 /* Products */,
 			);
@@ -127,6 +133,8 @@
 				1A35E0241E0507AB00ED0171 /* LaunchScreen.storyboard in Resources */,
 				1A35E0211E0507AB00ED0171 /* Assets.xcassets in Resources */,
 				1A35E01F1E0507AB00ED0171 /* Main.storyboard in Resources */,
+				1A35E0301E0BA57000ED0171 /* en_US.png in Resources */,
+				1A35E02F1E0BA57000ED0171 /* zh_Hant_TW.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
